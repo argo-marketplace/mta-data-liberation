@@ -11,12 +11,10 @@ MTA's 2020-2024 $51.5 billion capital investment + $3.3 billion for MTA Bridges 
 Yet, the data behind the allocation of this money is locked away in PDF document rendering it useless to more advanced analysis and interogation by the public at large.
 
 ## What
-An excel file containing the allocations of ~$49 Billion of capital spending has been created for more advanced analysis and interogation by the public at large.
-
-
+[A csv file](https://github.com/argo-marketplace/mta-data-liberation/blob/master/MTA%20capital%20plan%20%282020-2024%29%20-%20MASTER.csv) containing the allocations of ~$49 Billion of capital spending has been created for more advanced analysis and interogation by the public at large.
 
 ## How
-A professional license of Adobe Acrobat was used to convert the original PDF document into an Excel spreadsheet, which was then cleaned manually by Varun Adibhatla.
+A paid license of Adobe Acrobat was used to convert the tables containing project / program listings from the [original PDF document](https://new.mta.info/document/10511) into an Excel spreadsheet, which was then cleaned manually by Varun Adibhatla.
 
 ## Please
 Cite this repo if you use it any academic / official work/
