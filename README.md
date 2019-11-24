@@ -19,8 +19,25 @@ Yet, the data behind the allocation of this money is unfortunately locked away i
 ## What
 [A csv file](https://github.com/argo-marketplace/mta-data-liberation/blob/master/MTA%20capital%20plan%20%282020-2024%29%20-%20MASTER.csv) containing the allocations of ~$49 Billion of capital spending has been created for more advanced analysis and interogation by the public at large.
 
+CSV columns:
+
+1. SNO - An index of projects.
+2. PROJECT - An individual project that is part of a larger program
+3. CODE - A "project code" categorizing the specific the project (code definitions TBD)
+4. 2020 - Program spend in 2020
+5. 2021 - Program spend in 2021
+6. 2022 - Program spend in 2022
+7. 2023 - Program spend in 2023
+8. 2024 - Program spend in 2024
+9. All Years - Program spend total (2020-2024)
+10. PROGRAM CODE - A code specific to a program
+11. PROGRAM - A program that defines a specific mandate within the MTA
+12. PROGRAM NOTE - Notes specific to the program
+
+[The csv also exists as a Google sheet here](https://docs.google.com/spreadsheets/u/1/d/1Wegrw_k9CvWlxoTmC7TaM0U9Cz40vaT7Xj8XDQ_1xmU/edit?usp=sharing)
+
 ## How
-A paid license of Adobe Acrobat was used to convert the tables containing project / program listings from the [original PDF document](https://new.mta.info/document/10511) into an Excel spreadsheet, which was then cleaned manually.
+A paid license of Adobe Acrobat was used to convert the tables containing project / program listings from the [original PDF document](https://new.mta.info/document/10511) into an Excel spreadsheet. The spreadsheet was then cleaned manually.
 
 One can also use utilities like [pdfgrep](https://pdfgrep.org/) or [Tabula](https://tabula.technology/)
 
