@@ -17,7 +17,7 @@ Liberating imprisoned data (PDF tables) from NYC MTA's 2020-2024 Capital Plan.
 Yet, the data behind the allocation of this money is unfortunately locked away in PDF documents rendering it difficult to further interrogation and advanced analysis by researchers and the public at large.
 
 ## What
-[A csv file](https://github.com/argo-marketplace/mta-data-liberation/blob/master/MTA%20capital%20plan%20%282020-2024%29%20-%20MASTER.csv) containing the allocations of ~$49 Billion of capital spending has been created for more advanced analysis and interogation by the public at large.
+[A csv file](https://github.com/argo-marketplace/mta-data-liberation/blob/master/MTA%20capital%20plan%20(2020-2024)%20-%20MASTER.csv) containing the allocations of ~$49 Billion of capital spending has been created for more advanced analysis and interogation by the public at large.
 
 CSV columns:
 
