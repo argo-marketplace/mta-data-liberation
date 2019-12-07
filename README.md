@@ -1,3 +1,7 @@
+Update [12/7/2019]:
+https://new.mta.info/sites/default/files/2019-09/20-24%20Capital%20Program%20Project%20Listings.xlsx is an official file that 
+list project data from the full 2020-2024 Capital Program in Excel format.
+
 # mta-data-liberation
 Liberating imprisoned data (PDF tables) from NYC MTA's 2020-2024 Capital Plan.
 ![mta 2019-11-23 13_15_00](https://user-images.githubusercontent.com/4397663/69483758-54444700-0df9-11ea-9a7a-263bd2a8495c.gif)
